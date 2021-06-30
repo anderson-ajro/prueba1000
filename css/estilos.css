@@ -32,6 +32,8 @@ body:not(.offline) .offline-banner {
 body.offline .offline-banner {
   transition: all 0.5s;
   margin: 0;
+  position: absolute;
+  z-index: 3000;
 }
 
 
