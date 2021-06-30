@@ -33,6 +33,7 @@ body.offline .offline-banner {
   transition: all 0.5s;
   margin: 0;
   position: absolute;
+   width: 100%;
   z-index: 3000;
 }
 
